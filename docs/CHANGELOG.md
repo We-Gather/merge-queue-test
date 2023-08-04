@@ -1,3 +1,17 @@
+## [1.0.0-rc.4](https://github.com/We-Gather/merge-queue-test/compare/v1.0.0-rc.3...v1.0.0-rc.4) (2023-08-04)
+
+
+### CI
+
+* **test:** test ([547a5a6](https://github.com/We-Gather/merge-queue-test/commit/547a5a6ced873d3d60ec744dfce1692605284827))
+
+## [1.0.0-rc.3](https://github.com/We-Gather/merge-queue-test/compare/v1.0.0-rc.2...v1.0.0-rc.3) (2023-08-04)
+
+
+### CI
+
+* test ([1f8d4d8](https://github.com/We-Gather/merge-queue-test/commit/1f8d4d836db63fe23ffd5ed3475c20eea7f5afc8))
+
 ## [1.0.0-rc.2](https://github.com/We-Gather/merge-queue-test/compare/v1.0.0-rc.1...v1.0.0-rc.2) (2023-08-04)
 
 
