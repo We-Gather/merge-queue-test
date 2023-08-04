@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/We-Gather/merge-queue-test/compare/v1.0.4...v1.0.5) (2023-08-04)
+
+
+### Bug Fixes
+
+* **test:** test ([b8eb48c](https://github.com/We-Gather/merge-queue-test/commit/b8eb48cec5395b194cedfd9c2306a7ea98066d55))
+
 ## [1.0.5-rc.1](https://github.com/We-Gather/merge-queue-test/compare/v1.0.4...v1.0.5-rc.1) (2023-08-04)
 
 
