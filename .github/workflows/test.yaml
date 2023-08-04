@@ -5,6 +5,7 @@ on:
   merge_group:
     types: [checks_requested]
 
+
 env:
   SEMANTIC_RELEASE_PACKAGE: roux-test
 
