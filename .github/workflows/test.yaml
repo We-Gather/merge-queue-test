@@ -12,7 +12,7 @@ env:
 
 jobs:
   publish:
-    if: ${{ github.event_name == 'push' }}
+    if: ${{ github.event_name == 'merge_group' }}
     runs-on: ubuntu-latest
 
     steps:
