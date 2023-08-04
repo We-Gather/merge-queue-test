@@ -1,9 +1,6 @@
 name: merge-queue test
 
 on:
-  pull_request:
-    branches:
-      - main
   merge_group:
     types: [checks_requested]
 
@@ -12,7 +9,6 @@ env:
 
 jobs:
   publish:
-    if: ${{ github.event_name == 'merge_group' }}
     runs-on: ubuntu-latest
 
     steps:
