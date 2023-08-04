@@ -1,3 +1,23 @@
+## [1.0.0-rc.5](https://github.com/We-Gather/merge-queue-test/compare/v1.0.0-rc.4...v1.0.0-rc.5) (2023-08-04)
+
+
+### Bug Fixes
+
+* fes ([3cb9d41](https://github.com/We-Gather/merge-queue-test/commit/3cb9d4158dde0a7f08c30e0dc3fc38994e23e217))
+* test ([1ea775b](https://github.com/We-Gather/merge-queue-test/commit/1ea775b7350cf04aa82d40a8285b143410fd639c))
+* **test:** test ([feb227c](https://github.com/We-Gather/merge-queue-test/commit/feb227c9a52943ac3778f949a8526ac5b0bf998a))
+* **test:** test ([f64c637](https://github.com/We-Gather/merge-queue-test/commit/f64c63705e9e6b311684bcc166d43e1c85422105))
+* **test:** test ([8efc25d](https://github.com/We-Gather/merge-queue-test/commit/8efc25d09854307f7e3e848177f034b24fd0b01b))
+* **test:** test ([bb96ec2](https://github.com/We-Gather/merge-queue-test/commit/bb96ec2319d7798abc2a64d5ac292305b2218225))
+* **test:** test ([e29e1ed](https://github.com/We-Gather/merge-queue-test/commit/e29e1ed1cedb1caf8c7dd61a949a3c00c66088b4))
+* **test:** test ([4da15fc](https://github.com/We-Gather/merge-queue-test/commit/4da15fc402d63871e7adb65210de8803051e2879))
+
+
+### CI
+
+* github token 추가 ([#4](https://github.com/We-Gather/merge-queue-test/issues/4)) ([3e06974](https://github.com/We-Gather/merge-queue-test/commit/3e06974d02745e0a9b2f0727d3427675667841a2))
+* **test:** test ([dfac44f](https://github.com/We-Gather/merge-queue-test/commit/dfac44ff09e307cd7b0fb3be8dcb121a7f419031))
+
 ## [1.0.0-rc.4](https://github.com/We-Gather/merge-queue-test/compare/v1.0.0-rc.3...v1.0.0-rc.4) (2023-08-04)
 
 

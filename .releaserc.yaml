@@ -78,6 +78,9 @@ prepare:
   - path: '@semantic-release/exec'
     prepareCmd: |
       sed -i "s/\(\"version.*: \"\).*/\1${nextRelease.version}\",/g" package.json
+  - path: '@semantic-release/exec'
+    prepareCmd: |
+      echo $GITHUB_TOKEN
   - path: '@semantic-release/changelog'
     changelogFile: 'docs/CHANGELOG.md'
   - path: '@semantic-release/git'

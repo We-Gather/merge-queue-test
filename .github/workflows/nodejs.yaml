@@ -11,6 +11,7 @@ on:
       - stage
 env:
   SEMANTIC_RELEASE_PACKAGE: roux-test
+  GITHUB_TOKEN: ${{ secrets.SEMANTIC_RELEASE_GITHUB_TOKEN }}
 
 jobs:
   publish:
@@ -18,7 +19,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
+        with:
+          persist-credentials: false
       - uses: actions/setup-node@v3
         with:
           node-version-file: '.nvmrc'
@@ -30,4 +33,4 @@ jobs:
         id: semantic-release
         run: npx semantic-release
         env:
-          GITHUB_TOKEN: ${{ secrets.TEST_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.SEMANTIC_RELEASE_GITHUB_TOKEN }}
