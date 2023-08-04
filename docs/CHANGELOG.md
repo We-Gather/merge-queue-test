@@ -1,3 +1,14 @@
+## [1.0.9](https://github.com/We-Gather/merge-queue-test/compare/v1.0.8...v1.0.9) (2023-08-04)
+
+
+### Bug Fixes
+
+* test ([#22](https://github.com/We-Gather/merge-queue-test/issues/22)) ([4b50fa9](https://github.com/We-Gather/merge-queue-test/commit/4b50fa9bf76a7dd054fbb81756aa4a0443c7b7fc))
+* **test:** test ([#18](https://github.com/We-Gather/merge-queue-test/issues/18)) ([b124709](https://github.com/We-Gather/merge-queue-test/commit/b124709767e4293acb2cea12ff3f77485bd4c6fb))
+* **test:** test ([#19](https://github.com/We-Gather/merge-queue-test/issues/19)) ([24f8c66](https://github.com/We-Gather/merge-queue-test/commit/24f8c6641208b10e437a2dc07f7422942e669300))
+* **test:** test ([#20](https://github.com/We-Gather/merge-queue-test/issues/20)) ([4041345](https://github.com/We-Gather/merge-queue-test/commit/40413455960b654d8a0468ad32f3d0d9392a782b))
+* **test:** test ([#21](https://github.com/We-Gather/merge-queue-test/issues/21)) ([e62a0b1](https://github.com/We-Gather/merge-queue-test/commit/e62a0b11226e7993e52a47a99cc159023227aafd))
+
 ## [1.0.9-rc.5](https://github.com/We-Gather/merge-queue-test/compare/v1.0.9-rc.4...v1.0.9-rc.5) (2023-08-04)
 
 
