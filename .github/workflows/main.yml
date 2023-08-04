@@ -1,0 +1,14 @@
+name: test-merge
+
+on:
+  pull_request:
+  merge_group:
+
+jobs:
+  test-publish:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Try to faile
+        run: exit 1
+      
