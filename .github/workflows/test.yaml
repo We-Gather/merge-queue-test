@@ -1,6 +1,9 @@
 name: merge-queue-test
 
 on:
+  pull_request:
+    branches:
+      - main
   merge_group:
     types: [checks_requested]
 
@@ -13,10 +16,5 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: actions/setup-node@v3
-        with:
-          node-version-file: '.nvmrc'
-          cache: 'npm'
-          cache-dependency-path: '**/package-lock.json'
-      - name: Install Dependencies
-        run: npm ci
+      - name: Try to fail
+        run: exit 1
