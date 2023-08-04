@@ -1,7 +1,6 @@
 name: merge-queue-test
 
 on:
-  pull_request:
   merge_group:
 
 env:
