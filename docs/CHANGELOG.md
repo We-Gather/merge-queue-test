@@ -1,3 +1,35 @@
+## 1.0.0 (2023-08-04)
+
+
+### Bug Fixes
+
+* fes ([3cb9d41](https://github.com/We-Gather/merge-queue-test/commit/3cb9d4158dde0a7f08c30e0dc3fc38994e23e217))
+* test ([1ea775b](https://github.com/We-Gather/merge-queue-test/commit/1ea775b7350cf04aa82d40a8285b143410fd639c))
+* 패키지 꼬인거 추가 ([af2e757](https://github.com/We-Gather/merge-queue-test/commit/af2e75742c07600de8a09ae49ef946efcdd22e0e))
+* **add:** merge-queue ci ([da3dae7](https://github.com/We-Gather/merge-queue-test/commit/da3dae7a98b1598312d1d2c850baa72db2e46eeb))
+* **test:** test ([feb227c](https://github.com/We-Gather/merge-queue-test/commit/feb227c9a52943ac3778f949a8526ac5b0bf998a))
+* **test:** test ([f64c637](https://github.com/We-Gather/merge-queue-test/commit/f64c63705e9e6b311684bcc166d43e1c85422105))
+* **test:** test ([8efc25d](https://github.com/We-Gather/merge-queue-test/commit/8efc25d09854307f7e3e848177f034b24fd0b01b))
+* **test:** test ([bb96ec2](https://github.com/We-Gather/merge-queue-test/commit/bb96ec2319d7798abc2a64d5ac292305b2218225))
+* **test:** test ([e29e1ed](https://github.com/We-Gather/merge-queue-test/commit/e29e1ed1cedb1caf8c7dd61a949a3c00c66088b4))
+* **test:** test ([4da15fc](https://github.com/We-Gather/merge-queue-test/commit/4da15fc402d63871e7adb65210de8803051e2879))
+* **test:** test change log ([22d9a47](https://github.com/We-Gather/merge-queue-test/commit/22d9a47eef32880a43c7c335c92139ee3eb65bd3))
+
+
+### CI
+
+* ci secret 수정 ([c79dddc](https://github.com/We-Gather/merge-queue-test/commit/c79dddc28ea9e8fb78dde429c320b730085023d5))
+* github token 추가 ([#4](https://github.com/We-Gather/merge-queue-test/issues/4)) ([3e06974](https://github.com/We-Gather/merge-queue-test/commit/3e06974d02745e0a9b2f0727d3427675667841a2))
+* test ([1f8d4d8](https://github.com/We-Gather/merge-queue-test/commit/1f8d4d836db63fe23ffd5ed3475c20eea7f5afc8))
+* 테스트 ci추가 ([e215671](https://github.com/We-Gather/merge-queue-test/commit/e215671e99a0e7f282ac4a18bad54fe33bb41169))
+* **test:** test ([dfac44f](https://github.com/We-Gather/merge-queue-test/commit/dfac44ff09e307cd7b0fb3be8dcb121a7f419031))
+* **test:** test ([547a5a6](https://github.com/We-Gather/merge-queue-test/commit/547a5a6ced873d3d60ec744dfce1692605284827))
+
+
+### Build
+
+* 빌드 추가 ([90a9622](https://github.com/We-Gather/merge-queue-test/commit/90a96225752de682cfb4b1a03f5204d259ffc61f))
+
 ## [1.0.0-rc.5](https://github.com/We-Gather/merge-queue-test/compare/v1.0.0-rc.4...v1.0.0-rc.5) (2023-08-04)
 
 
