@@ -21,6 +21,7 @@ function delayedHello(
   return new Promise((resolve: (value?: string) => void) =>
     setTimeout(() => resolve(`Hello, ${name} test`), delay),
   );
+  //
 }
 
 // Below are examples of using ESLint errors suppression
