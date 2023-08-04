@@ -3,10 +3,6 @@ name: merge-queue-test
 on:
   pull_request:
   merge_group:
-    branches:
-      - main
-    types:
-      - checks_requested
 
 env:
   SEMANTIC_RELEASE_PACKAGE: roux-test
