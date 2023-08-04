@@ -5,7 +5,9 @@ export enum Delays {
   Short = 500,
   Medium = 2000,
   Long = 5000,
+  veryShort = 1,
 }
+// Hello Im test
 
 /**
  * Returns a Promise<string> that resolves after a given time.
