@@ -1,4 +1,4 @@
-name: merge-queue test
+name: merge-queue-test
 
 on:
   merge_group:
