@@ -7,6 +7,9 @@
 
 ## [1.0.7-rc.1](https://github.com/We-Gather/merge-queue-test/compare/v1.0.6...v1.0.7-rc.1) (2023-08-04)
 
+## [1.0.7](https://github.com/We-Gather/merge-queue-test/compare/v1.0.6...v1.0.7) (2023-08-04)
+
+
 
 ### Bug Fixes
 
