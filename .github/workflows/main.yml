@@ -1,9 +1,8 @@
 name: test-merge
-
 on:
-  pull_request:
+  pull_request: {}
   merge_group:
-
+    types: [checks_requested]
 jobs:
   test-publish:
     runs-on: ubuntu-latest
@@ -11,4 +10,3 @@ jobs:
     steps:
       - name: Try to faile
         run: exit 1
-      
