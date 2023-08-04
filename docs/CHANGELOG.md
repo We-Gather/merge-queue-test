@@ -1,4 +1,21 @@
+## [1.0.8-rc.1](https://github.com/We-Gather/merge-queue-test/compare/v1.0.7...v1.0.8-rc.1) (2023-08-04)
+
+
+### Bug Fixes
+
+* **ci:** merge-group ([#16](https://github.com/We-Gather/merge-queue-test/issues/16)) ([664ddc5](https://github.com/We-Gather/merge-queue-test/commit/664ddc5fab2f63d6f0a29360f93511741adffc61))
+
+## [1.0.7-rc.2](https://github.com/We-Gather/merge-queue-test/compare/v1.0.7-rc.1...v1.0.7-rc.2) (2023-08-04)
+
+
+### Bug Fixes
+
+* **ci:** merge-group ([#16](https://github.com/We-Gather/merge-queue-test/issues/16)) ([664ddc5](https://github.com/We-Gather/merge-queue-test/commit/664ddc5fab2f63d6f0a29360f93511741adffc61))
+
+## [1.0.7-rc.1](https://github.com/We-Gather/merge-queue-test/compare/v1.0.6...v1.0.7-rc.1) (2023-08-04)
+
 ## [1.0.7](https://github.com/We-Gather/merge-queue-test/compare/v1.0.6...v1.0.7) (2023-08-04)
+
 
 
 ### Bug Fixes
