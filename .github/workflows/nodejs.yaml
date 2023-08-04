@@ -29,8 +29,6 @@ jobs:
           cache-dependency-path: '**/package-lock.json'
       - name: Install Dependencies
         run: npm ci
-      - name: test
-        run: git push
       - name: Semantic Release
         id: semantic-release
         run: npx semantic-release
